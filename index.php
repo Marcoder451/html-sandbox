@@ -4,7 +4,8 @@
 			<meta charset="utf-8">
 			<!-- Custom CSS -->
 			<link rel="stylesheet" href="css/style.css" type="text/css"/>
-
+<!-- Custom Javascript-->
+			<script type="text/javascript" src="js/scripts.js"></script>
 			<title>HTML Sandbox</title>
 		</head>
 		<body>
